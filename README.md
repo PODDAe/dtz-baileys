@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/nkgzrc.png" width="100%" alt="DTZ-Baileys Banner"/>
+<img src="https://files.catbox.moe/97a73j.png" width="100%" alt="DTZ-Baileys Banner"/>
 
 # DTZ-Baileys
 
