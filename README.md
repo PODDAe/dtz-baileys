@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/97a73j.png" width="100%" alt="DTZ-Baileys Banner"/>
+<img src="https://files.catbox.moe/97a73j.png" width="100%" alt="baileys-new-dtz Banner"/>
 
-# DTZ-Baileys
+# baileys-new-dtz
 
 Professional WhatsApp Web API Framework  
 Built for high-performance bots, automation systems, and SaaS messaging platforms.
@@ -30,7 +30,7 @@ Built for high-performance bots, automation systems, and SaaS messaging platform
 ## 📦 Installation
 
 ```bash
-npm install dtz-baileys
+npm install baileys-new-dtz
 ```
 
 ---
@@ -38,7 +38,7 @@ npm install dtz-baileys
 ## 🚀 Basic Connection (QR Login)
 
 ```javascript
-import makeWASocket from "dtz-baileys"
+import makeWASocket from "baileys-new-dtz"
 
 const sock = makeWASocket({
   browser: ['Ubuntu', 'Chrome', '20.0.0'],
@@ -49,7 +49,7 @@ const sock = makeWASocket({
 ### CommonJS Version
 
 ```javascript
-const { default: makeWASocket } = require("dtz-baileys")
+const { default: makeWASocket } = require("baileys-new-dtz")
 
 const sock = makeWASocket({
   browser: ['Ubuntu', 'Chrome', '20.0.0'],
@@ -72,7 +72,7 @@ console.log("Pairing Code:", code)
 
 ```javascript
 await sock.sendMessage(id, {
-  text: "Hello from DTZ-Baileys 🚀",
+  text: "Hello from baileys-new-dtz 🚀",
   ai: true
 })
 ```
@@ -89,7 +89,7 @@ const buttons = [
 
 await sock.sendMessage(id, {
   text: "Choose an option",
-  footer: "DTZ-Baileys",
+  footer: "baileys-new-dtz",
   buttons,
   headerType: 1
 })
@@ -129,7 +129,7 @@ MIT License
 
 <div align="center">
 
-### DTZ-Baileys  
+### baileys-new-dtz  
 Lightweight • Powerful • Professional
 
 </div>
