@@ -1,16 +1,16 @@
 {
-    "name": "baileys-new-dtz",
-    "version": "1.0.1",
-    "description": "WhatsApp Modified By Dark Tech Zoon",
+    "name": "@dct-dula/baileys",
+    "version": "1.0.0",
+    "description": "WhatsApp Modified By DCT Dula Dev",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "",
+    "homepage": "https://whatsapp.com/channel/0029VbCbYpSEquiIsz0brA3D",
     "repository": {
         "url": ""
     },
     "license": "MIT",
-    "author": "Dark Tech Zoon",
+    "author": "☠︎︎ ᴅᴄᴛ ᴅᴜʟᴀ ᴅᴇᴠ </> ☠︎︎",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://chat.whatsapp.com/GYFkafbxbD8JHDCPzXPlIi"
+      "url": ""
     }
 }
